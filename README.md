@@ -1,4 +1,7 @@
-# **AutoML-Studio**
+# **AutoML Studio: No-Code Platform for AI Model Development**
+
+**Overview:**
+AutoML Studio is a no-code, user-friendly web-based platform designed to simplify the end-to-end process of developing machine learning (ML) and artificial intelligence (AI) models. It enables users—including those without programming knowledge—to build, train, evaluate, and deploy AI models through an intuitive graphical interface.
 
 To Run Project Install Dependencies and run run_all.py
 ![image](https://github.com/user-attachments/assets/e62cb177-7c84-49be-95ca-4f95ecdda0c8)
